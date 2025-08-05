@@ -27,8 +27,5 @@ Columns added: `year_added`, `month_added`, `is_movie`
 - Pandas
 - Jupyter Notebook
 
-##  How to Use
-
-1. Clone the repo:
 
 
