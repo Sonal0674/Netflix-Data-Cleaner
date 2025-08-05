@@ -18,6 +18,7 @@ This project focuses on cleaning and preparing Netflix titles data using Python 
 
 
 Final rows:  5692
+
 Columns added: `year_added`, `month_added`, `is_movie`
 
 ##  Tools Used
